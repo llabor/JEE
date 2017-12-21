@@ -1,2 +1,0 @@
-# JEE
-MVC, DAO, JEE, POJO, JPA, Servlet, JSP
