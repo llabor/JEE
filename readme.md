@@ -1,11 +1,11 @@
-# Java Enterprise Especification
-MVC
-DAO
-JEE
-POJO
-JPA
-Servlet
-JSP
+# Java Enterprise Edition
+* MVC
+* DAO
+* JEE
+* POJO
+* JPA
+* Servlet
+* JSP
 ## Work Environment
 Usage     | Link
 ---       | ---
