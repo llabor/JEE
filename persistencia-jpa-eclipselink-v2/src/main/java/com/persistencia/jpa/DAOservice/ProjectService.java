@@ -9,11 +9,6 @@ import com.persistencia.jpa.entities.Project;
 
 public class ProjectService implements ProjectDAO {
 	
-
-
-//	EntityManagerFactory emfactory = Persistence.createEntityManagerFactory( "ProjectService" );
-//    EntityManager em = emfactory.createEntityManager( );
-
     @PersistenceContext(unitName="ProjectService")
     EntityManager em;
     
@@ -41,3 +36,8 @@ public class ProjectService implements ProjectDAO {
 		em.remove(project);
 	}
 }
+
+
+
+//    EntityManagerFactory emfactory = Persistence.createEntityManagerFactory( "ProjectService" );
+//    EntityManager em = emfactory.createEntityManager( );
