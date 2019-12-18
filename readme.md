@@ -16,3 +16,5 @@ Integration | [Maven](https://maven.apache.org/)
 JDBC API | [Java Data Base Connector](https://www.mysql.com/products/connector/)
 JPA | [EclipseLink](https://www.eclipse.org/eclipselink/)
 MySQL Workbench | [MySQL Workbench](https://www.mysql.com/products/workbench/)
+<a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" target="_blank" title="Hobbit lifestyles">hobbit-hole</a>
+
